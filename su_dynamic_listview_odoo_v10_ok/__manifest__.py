@@ -1,10 +1,10 @@
 {
-    'name': 'Dynamic ListView Odoo 10 Advance',
-    'summary': 'Dynamic ListView Odoo 10 Advance',
+    'name': 'QZ TLA',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
-       Dynamic ListView Odoo 10 Supper Advance
+       
     """,
     'author': "startup",
     'depends': ['web'],
